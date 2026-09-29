@@ -22,3 +22,4 @@ Each user signs in with email/password and only sees their own tasks (Row Level 
 - `src/Auth.jsx`    sign in / sign up
 - `src/Tasks.jsx`   loading, adding, filtering, deleting tasks
 - `src/TaskItem.jsx` one task, with autosaving notes
+- 
